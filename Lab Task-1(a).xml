@@ -1,0 +1,24 @@
+<Mobile>
+<mobile>
+    <mobile id="11"  xyz="abc">
+    <name>Samsung</name>
+    <Unit_Price>35000</Unit_Price>
+    <Stock>50</Stock>
+    <Status>1</Status>
+</mobile>
+<mobile>
+    <mobile id="20"  xyz="abc">
+    <name>HTC</name>
+    <Unit_Price>65300</Unit_Price>
+    <Stock>35</Stock>
+    <Status>0</Status>
+</mobile>
+<mobile>
+    <mobile id="23"  xyz="abc">
+    <name>Nokia</name>
+    <Unit_Price>25100</Unit_Price>
+    <Stock>100</Stock>
+    <Status>1</Status>
+</mobile>
+</Mobile>
+
