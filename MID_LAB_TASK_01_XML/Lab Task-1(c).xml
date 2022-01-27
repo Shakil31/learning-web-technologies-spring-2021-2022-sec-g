@@ -1,27 +1,27 @@
-<Job_holder>
-    <Job_holder id="1" xyz="abc">
+<job_holder>
+    <job_holder id="1" xyz="abc">
     
-        <NAME>John Doe</NAME>
-        <ADDRESS>H#38,R#3,Banani,Dhaka</ADDRESS>
-        <DEPARTMENT>Sales</DEPARTMENT>
-        <SALARY>$20000</SALARY>
+        <name>John Doe</name>
+        <address>H#38,R#3,Banani,Dhaka</address>
+        <department>Sales</department>
+        <salary>$20000</salary>
 
-    </Job_holder>
-    <Job_holder id="2" xyz="abc">
+    </job_holder>
+    <job_holder id="2" xyz="abc">
     
-        <NAME>Mark Zuckerberg</NAME>
-        <ADDRESS>Flat# A/1,H#3,R#18,Mirpur,Dhaka</ADDRESS>
-        <DEPARTMENT>Accounts</DEPARTMENT>
-        <SALARY>$12000</SALARY>
+        <name>Mark Zuckerberg</name>
+        <address>Flat# A/1,H#3,R#18,Mirpur,Dhaka</address>
+        <department>Accounts</department>
+        <salary>$12000</salary>
 
-    </Job_holder>
-    <Job_holder id="3" xyz="abc">
+    </job_holder>
+    <job_holder id="3" xyz="abc">
     
-        <NAME>Ala Voski</NAME>
-        <ADDRESS>H#38,R#3,Motijheel</ADDRESS>
-        <DEPARTMENT>Human Resource</DEPARTMENT>
-        <SALARY>$30000</SALARY>
+        <name>Ala Voski</name>
+        <address>H#38,R#3,Motijheel</address>
+        <department>Human Resource</department>
+        <salary>$30000</salary>
 
-    </Job_holder>
+    </job_holder>
 
-</Job_holder>
+</job_holder>
