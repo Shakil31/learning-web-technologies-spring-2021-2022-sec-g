@@ -1,17 +1,17 @@
-<Record>
-    <Record SL.NO="23" xyz="abc">
+<record>
+    <record SL.NO="23" xyz="abc">
     
-    <NAME>John Carter</NAME>
-    <ADMISSION_DATE>25/12/2015</ADMISSION_DATE>
-    </Record>
-    <Record SL.NO="29" xyz="abc">
+    <name>John Carter</name>
+    <admission_date>25/12/2015</admission_date>
+    </record>
+    <record sl.no="29" xyz="abc">
     
-    <NAME>Bob Marshal</NAME>
-    <ADMISSION_DATE>13/01/1999</ADMISSION_DATE>
-    </Record>
-    <Record SL.NO="35" xyz="abc">
+    <name>Bob Marshal</name>
+    <admission_date>13/01/1999</admission_date>
+    </record>
+    <record sl.no="35" xyz="abc">
     
-    <NAME>Clark Kent</NAME>
-    <ADMISSION_DATE>17/06/2005</ADMISSION_DATE>
-    </Record>
-</Record>
+    <name>Clark Kent</name>
+    <admission_date>17/06/2005</admission_date>
+    </record>
+</record>
